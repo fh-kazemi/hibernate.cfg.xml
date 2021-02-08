@@ -1,0 +1,2 @@
+Hibernate requires to know in advance — where to find the mapping information that defines how your Java classes relate to the database tables. Hibernate also requires a set of configuration settings related to database and other related parameters. All such information is usually supplied as a standard Java properties file called hibernate.properties, or as an XML file named hibernate.cfg.xml.
+So we have two entities that mapped by resources. We can also put the database in "update" or "create" position.
